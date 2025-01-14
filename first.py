@@ -1,1 +1,1 @@
-print("This is the first version of project")
+print("This is the second version of project")
